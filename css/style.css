@@ -312,7 +312,7 @@ ul.tabs li {
 	display: inline-block;
 	padding: 0;
 }
-ul.tabs.display li { padding: 1%; }
+ul.tabs.display li { padding: 2.5%; }
 ul.tabs.display li:first-child { padding-left: 0; }
 ul.tabs.display li img { border-radius: 200px; box-shadow: 5px 5px 0 #29bf82; }
 ul.tabs button { width: auto; padding: 20px; background: none; border-radius: 0; border-top: 3px solid transparent; border-bottom: 3px solid transparent; color: #fff; font-weight: inherit; }
